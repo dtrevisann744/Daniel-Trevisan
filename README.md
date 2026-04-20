@@ -34,5 +34,5 @@ Me tornar um desenvolvedor completo, dominando front-end e evoluindo para back-e
 ---
 
 <p align="center">
-✨ Em constante evolução
+✨ Em constante evolução!
 </p>
